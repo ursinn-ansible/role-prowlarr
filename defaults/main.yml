@@ -1,0 +1,8 @@
+---
+role_prowlarr_image: 'lscr.io/linuxserver/prowlarr'
+role_prowlarr_container: 'prowlarr'
+role_prowlarr_puid: '1000'
+role_prowlarr_pgid: '1000'
+role_prowlarr_tz: 'Europe/Zurich'
+role_prowlarr_dir: '/opt/app-prowlarr'
+role_prowlarr_network: 'app-network'
